@@ -60,8 +60,8 @@ Thumbs.db
 
 # Browser test screenshots (generated output)
 # Uncomment if you do not want to version these screenshots:
-# CMS/test/browser/shots/
-
+ CMS/test/browser/shots/
+rpf/test/browser/shots/
 # Keep package manifests and lockfiles tracked
-# package.json
-# package-lock.json
+ package.json
+ package-lock.json
